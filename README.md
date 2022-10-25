@@ -7,6 +7,8 @@ COnfounders of Modifiable Risk factors for Alzheimer's disease and other DEmenti
 #### ** Alcohol
 #### ** Depression
 #### ** Traumatic Brain Injury
+#### ** Hypertension
+#### ** Hearing Loss / Hearing Aid
 
 ## Database
 ### * Database Schema
